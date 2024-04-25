@@ -10,7 +10,7 @@
             "is_facebook": 0,
             "is_adx": 1,
             "is_admob": 0,
-            "status": 1,
+            "status": 0,
             "created_at": "2024-04-11T10:40:49.000000Z",
             "updated_at": "2024-04-17T12:41:16.000000Z",
             "is_check_screen": 0,
